@@ -4,6 +4,8 @@ Turn verified English SaaS product facts into an evidence-safe China market laun
 
 The skill creates natural Simplified Chinese positioning and launch material while keeping unsupported claims out of customer-facing copy. It is designed for founders, SaaS marketers, product teams, and agencies evaluating China market entry.
 
+Service overview and public work: https://chris-saas-services.stomeonst123.chatgpt.site
+
 ## What it produces
 
 1. Market-fit snapshot.
@@ -72,5 +74,7 @@ The free skill remains complete and usable without purchasing anything.
 2. Implementation sprint: USD 450 for an implementation-ready homepage rewrite, conversion-path recommendations, message QA for one priority page, three follow-up or onboarding emails, and one revision round.
 
 The implementation target is 48 hours after the deposit and complete inputs are received. No revenue, conversion, market-access, or regulatory outcome is guaranteed.
+
+Service details: https://chris-saas-services.stomeonst123.chatgpt.site
 
 Contact: Chris at stomeonst123@gmail.com.
