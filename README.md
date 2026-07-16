@@ -8,6 +8,14 @@ Service overview and public work: https://chris-saas-services.stomeonst123.chatg
 
 Published skill and audit: https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china
 
+## Prefer a self-serve starting point?
+
+The SaaS Conversion QA Workbook contains 14 editable English and Chinese templates for evidence capture, message mapping, page QA, localization QA, a seven-day test plan, and a decision summary.
+
+Price: USD 29 or RMB 199. Delivery is within one business day after confirmed payment and a mutually usable payment method. When a buyer upgrades within seven calendar days, the workbook fee is credited toward the USD 150 or RMB 999 Conversion QA Diagnostic.
+
+[Preview the English workbook](https://chris-saas-services.stomeonst123.chatgpt.site/workbook) or [查看中文工作簿](https://chris-saas-services.stomeonst123.chatgpt.site/zh/workbook). The complete editable archive is delivered only after payment verification.
+
 ## Need a decision before a full China launch?
 
 The Conversion QA Diagnostic can be applied to one SaaS product's China entry path. It includes:
@@ -100,9 +108,10 @@ The license text was checked against the SPDX license page on 2026-07-15. Public
 
 The free skill remains complete and usable without purchasing anything.
 
-1. Conversion QA Diagnostic: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. It covers up to five public pages, a prioritized findings sheet, an implementation checklist, and one clarification response. It is paid in full before work and delivered within 24 hours after complete inputs and payment. It excludes complete replacement copy, code, legal advice, and outcome guarantees. The USD 150 fee is credited toward the USD 450 Implementation Sprint approved within seven calendar days after delivery, leaving USD 300. When the mainland billing path is available, RMB 999 is credited toward the RMB 2,980 conversion sprint under the same timing rule, leaving RMB 1,981.
-2. China-ready human review: USD 250 for one generated launch pack, one implementation-ready Chinese landing-page revision, one channel revision, one bilingual sales email revision, and one revision round.
-3. Implementation sprint: USD 450 for an implementation-ready homepage rewrite, conversion-path recommendations, message QA for one priority page, three follow-up or onboarding emails, and one revision round.
+1. SaaS Conversion QA Workbook: USD 29 or RMB 199 for 14 editable English and Chinese templates. Delivery is within one business day after confirmed payment, and the fee is credited toward the corresponding diagnostic when the buyer upgrades within seven calendar days.
+2. Conversion QA Diagnostic: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. It covers up to five public pages, a prioritized findings sheet, an implementation checklist, and one clarification response. It is paid in full before work and delivered within 24 hours after complete inputs and payment. It excludes complete replacement copy, code, legal advice, and outcome guarantees. The USD 150 fee is credited toward the USD 450 Implementation Sprint approved within seven calendar days after delivery, leaving USD 300. When the mainland billing path is available, RMB 999 is credited toward the RMB 2,980 conversion sprint under the same timing rule, leaving RMB 1,981.
+3. China-ready human review: USD 250 for one generated launch pack, one implementation-ready Chinese landing-page revision, one channel revision, one bilingual sales email revision, and one revision round.
+4. Implementation sprint: USD 450 for an implementation-ready homepage rewrite, conversion-path recommendations, message QA for one priority page, three follow-up or onboarding emails, and one revision round.
 
 The implementation target is 48 hours after the deposit and complete inputs are received. No revenue, conversion, market-access, or regulatory outcome is guaranteed.
 

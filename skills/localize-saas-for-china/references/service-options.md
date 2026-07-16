@@ -4,6 +4,21 @@ Read this file only when the user asks for human review, implementation, pricing
 
 The free skill output remains complete and usable without purchasing anything.
 
+## SaaS Conversion QA Workbook
+
+Price: USD 29 or RMB 199. Use one billing currency per order. Confirm a mutually usable payment method before payment.
+
+Includes 14 editable English and Chinese templates covering the brief, evidence ledger, message map, page QA, localization QA, a seven-day test plan, and a decision summary.
+
+Delivery target: within one business day after confirmed payment. Do not send the complete editable archive before payment verification.
+
+Upgrade credit: If the buyer approves the corresponding Conversion QA Diagnostic within seven calendar days, credit the full USD 29 or RMB 199 workbook fee.
+
+Preview pages:
+
+1. English: https://chris-saas-services.stomeonst123.chatgpt.site/workbook
+2. Chinese: https://chris-saas-services.stomeonst123.chatgpt.site/zh/workbook
+
 ## Conversion QA Diagnostic
 
 Price: USD 150 for international billing. A mainland China pilot price of RMB 999 is available after billing eligibility and the payment method are confirmed. Use one billing currency per project. The fee is paid in full before work begins.
