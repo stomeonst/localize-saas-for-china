@@ -8,6 +8,12 @@ Service overview and public work: https://chris-saas-services.stomeonst123.chatg
 
 Published skill and audit: https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china
 
+## Start with the free visual checklist
+
+Use the free 12-point SaaS localization visual checklist to review identity, typography, product screenshots, interface terms, pricing, proof, trust paths, forms, mobile actions, and documented human checks.
+
+[Open the English checklist](https://chris-saas-services.stomeonst123.chatgpt.site/resources/saas-localization-visual-checklist) or [打开中文检查清单](https://chris-saas-services.stomeonst123.chatgpt.site/zh/resources/saas-localization-visual-checklist). It requires no account and does not provide legal, accessibility, security, or compliance conclusions.
+
 ## Prefer a self-serve starting point?
 
 The SaaS Conversion QA Workbook contains 14 editable English and Chinese templates for evidence capture, message mapping, page QA, localization QA, a seven-day test plan, and a decision summary.
