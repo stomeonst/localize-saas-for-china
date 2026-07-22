@@ -6,7 +6,10 @@ The skill creates natural Simplified Chinese positioning and launch material whi
 
 Service overview and public work: https://chris-saas-services.stomeonst123.chatgpt.site
 
-Published skill and audit: https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china
+Public directory pages:
+
+1. Skillstore listing and audit: https://skillstore.io/skills/stomeonst-localize-saas-for-china
+2. skills.re listing and audit: https://skills.re/skills/stomeonst/localize-saas-for-china/localize-saas-for-china
 
 ## Start with the free visual checklist
 
@@ -69,6 +72,10 @@ cp -R localize-saas-for-china/skills/localize-saas-for-china ~/.codex/skills/
 Restart or reload the agent environment after copying the skill.
 
 ## Public directory status
+
+Skillstore published the recovered submission on 2026-07-17. The public listing identifies the skill as audited and safe:
+
+https://skillstore.io/skills/stomeonst-localize-saas-for-china
 
 skills.re published version 1.0.0 on 2026-07-15 and scored the public skill 98/100 in its directory audit:
 
